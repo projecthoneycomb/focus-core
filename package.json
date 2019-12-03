@@ -1,0 +1,18 @@
+{
+  "name": "@projecthoneycomb/focus-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/fluent-ffmpeg": "^2.1.11",
+    "dotenv": "^8.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^8.1.0"
+  }
+}
